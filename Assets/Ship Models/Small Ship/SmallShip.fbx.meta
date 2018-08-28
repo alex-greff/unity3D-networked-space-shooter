@@ -1,0 +1,162 @@
+fileFormatVersion: 2
+guid: cd2a4bf6522b4c745905b664c00e8646
+timeCreated: 1451329508
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Body
+    100002: Camera
+    100004: Cockpit
+    100006: Cockpit Prot
+    100008: Engine Fin Left
+    100010: Engine Fin Right
+    100012: Engine Left
+    100014: Engine Right
+    100016: Fin Left
+    100018: Fin Right
+    100020: Gun Connector Left
+    100022: Gun Connector Right
+    100024: Gun Left 1
+    100026: Gun Left 2
+    100028: Gun Right 1
+    100030: Gun Right 2
+    100032: Lamp
+    100034: //RootNode
+    100036: Wing Left
+    100038: Wing Right
+    400000: Body
+    400002: Camera
+    400004: Cockpit
+    400006: Cockpit Prot
+    400008: Engine Fin Left
+    400010: Engine Fin Right
+    400012: Engine Left
+    400014: Engine Right
+    400016: Fin Left
+    400018: Fin Right
+    400020: Gun Connector Left
+    400022: Gun Connector Right
+    400024: Gun Left 1
+    400026: Gun Left 2
+    400028: Gun Right 1
+    400030: Gun Right 2
+    400032: Lamp
+    400034: //RootNode
+    400036: Wing Left
+    400038: Wing Right
+    2300000: Body
+    2300002: Cockpit
+    2300004: Cockpit Prot
+    2300006: Engine Fin Left
+    2300008: Engine Fin Right
+    2300010: Engine Left
+    2300012: Engine Right
+    2300014: Fin Left
+    2300016: Fin Right
+    2300018: Gun Connector Left
+    2300020: Gun Connector Right
+    2300022: Gun Left 1
+    2300024: Gun Left 2
+    2300026: Gun Right 1
+    2300028: Gun Right 2
+    2300030: Wing Left
+    2300032: Wing Right
+    3300000: Body
+    3300002: Cockpit
+    3300004: Cockpit Prot
+    3300006: Engine Fin Left
+    3300008: Engine Fin Right
+    3300010: Engine Left
+    3300012: Engine Right
+    3300014: Fin Left
+    3300016: Fin Right
+    3300018: Gun Connector Left
+    3300020: Gun Connector Right
+    3300022: Gun Left 1
+    3300024: Gun Left 2
+    3300026: Gun Right 1
+    3300028: Gun Right 2
+    3300030: Wing Left
+    3300032: Wing Right
+    4300000: Gun Connector Left
+    4300002: Gun Left 1
+    4300004: Cockpit Prot
+    4300006: Cockpit
+    4300008: Body
+    4300010: Engine Left
+    4300012: Wing Left
+    4300014: Engine Fin Left
+    4300016: Fin Left
+    4300018: Engine Fin Right
+    4300020: Engine Right
+    4300022: Fin Right
+    4300024: Wing Right
+    4300026: Gun Left 2
+    4300028: Gun Connector Right
+    4300030: Gun Right 1
+    4300032: Gun Right 2
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

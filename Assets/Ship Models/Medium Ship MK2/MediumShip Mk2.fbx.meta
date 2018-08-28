@@ -1,0 +1,152 @@
+fileFormatVersion: 2
+guid: f071be4b8cc5267459f0302f189989fb
+timeCreated: 1450833275
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Back Fenders
+    100002: Barrels
+    100004: Body
+    100006: Bulks
+    100008: Camera
+    100010: Cockpit Renforcements
+    100012: Front Cockpit
+    100014: Gun Holders
+    100016: Lamp
+    100018: //RootNode
+    100020: Neck
+    100022: Tail Fins
+    100024: Wing Left
+    100026: Wing Right
+    100028: Bulk Right
+    100030: Bulks Left
+    100032: Tail Fin Left
+    100034: Tail Fin Right
+    400000: Back Fenders
+    400002: Barrels
+    400004: Body
+    400006: Bulks
+    400008: Camera
+    400010: Cockpit Renforcements
+    400012: Front Cockpit
+    400014: Gun Holders
+    400016: Lamp
+    400018: //RootNode
+    400020: Neck
+    400022: Tail Fins
+    400024: Wing Left
+    400026: Wing Right
+    400028: Bulk Right
+    400030: Bulks Left
+    400032: Tail Fin Left
+    400034: Tail Fin Right
+    2300000: Back Fenders
+    2300002: Barrels
+    2300004: Body
+    2300006: Bulks
+    2300008: Cockpit Renforcements
+    2300010: Front Cockpit
+    2300012: Gun Holders
+    2300014: Neck
+    2300016: Tail Fins
+    2300018: Wing Left
+    2300020: Wing Right
+    2300022: Bulk Right
+    2300024: Bulks Left
+    2300026: Tail Fin Left
+    2300028: Tail Fin Right
+    3300000: Back Fenders
+    3300002: Barrels
+    3300004: Body
+    3300006: Bulks
+    3300008: Cockpit Renforcements
+    3300010: Front Cockpit
+    3300012: Gun Holders
+    3300014: Neck
+    3300016: Tail Fins
+    3300018: Wing Left
+    3300020: Wing Right
+    3300022: Bulk Right
+    3300024: Bulks Left
+    3300026: Tail Fin Left
+    3300028: Tail Fin Right
+    4300000: Gun Holders
+    4300002: Cockpit Renforcements
+    4300004: Tail Fins
+    4300006: Front Cockpit
+    4300008: Neck
+    4300010: Body
+    4300012: Back Fenders
+    4300014: Wing Right
+    4300016: Barrels
+    4300018: Bulks
+    4300020: Wing Left
+    4300022: Tail Fin Right
+    4300024: Bulk Right
+    4300026: Tail Fin Left
+    4300028: Bulks Left
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

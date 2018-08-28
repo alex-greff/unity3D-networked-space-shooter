@@ -1,0 +1,137 @@
+fileFormatVersion: 2
+guid: 21bc5e390c2fa7645a216f009c82edfe
+timeCreated: 1453002906
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Back Fenders
+    100002: Barrels
+    100004: Body
+    100006: Bulk Right
+    100008: Bulks Left
+    100010: Camera
+    100012: Cockpit Renforcements
+    100014: Front Cockpit
+    100016: Lamp
+    100018: //RootNode
+    100020: Neck
+    100022: Tail Fin Left
+    100024: Tail Fin Right
+    100026: Wing Left
+    100028: Wing Right
+    400000: Back Fenders
+    400002: Barrels
+    400004: Body
+    400006: Bulk Right
+    400008: Bulks Left
+    400010: Camera
+    400012: Cockpit Renforcements
+    400014: Front Cockpit
+    400016: Lamp
+    400018: //RootNode
+    400020: Neck
+    400022: Tail Fin Left
+    400024: Tail Fin Right
+    400026: Wing Left
+    400028: Wing Right
+    2300000: Back Fenders
+    2300002: Barrels
+    2300004: Body
+    2300006: Bulk Right
+    2300008: Bulks Left
+    2300010: Cockpit Renforcements
+    2300012: Front Cockpit
+    2300014: Neck
+    2300016: Tail Fin Left
+    2300018: Tail Fin Right
+    2300020: Wing Left
+    2300022: Wing Right
+    3300000: Back Fenders
+    3300002: Barrels
+    3300004: Body
+    3300006: Bulk Right
+    3300008: Bulks Left
+    3300010: Cockpit Renforcements
+    3300012: Front Cockpit
+    3300014: Neck
+    3300016: Tail Fin Left
+    3300018: Tail Fin Right
+    3300020: Wing Left
+    3300022: Wing Right
+    4300000: Barrels
+    4300002: Tail Fin Right
+    4300004: Bulk Right
+    4300006: Cockpit Renforcements
+    4300008: Tail Fin Left
+    4300010: Front Cockpit
+    4300012: Neck
+    4300014: Body
+    4300016: Back Fenders
+    4300018: Wing Right
+    4300020: Bulks Left
+    4300022: Wing Left
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

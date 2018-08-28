@@ -1,0 +1,147 @@
+fileFormatVersion: 2
+guid: ab3235e3c8f75e94c924b0601072b6cf
+timeCreated: 1453168920
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Cube.001_MeshPart0
+    100004: Cube.001_MeshPart1
+    100006: Cube.001_MeshPart2
+    100008: Cube.001_MeshPart3
+    100010: Cube.001_MeshPart4
+    100012: Cube.001_MeshPart5
+    100014: Asteroid Hole v2
+    100016: Asteroid Hole v2_Collider
+    100018: Asteroid Hole v2_Collider_MeshPart0
+    100020: Asteroid Hole v2_Collider_MeshPart1
+    100022: Asteroid Hole v2_MeshPart0
+    100024: Asteroid Hole v2_MeshPart1
+    100026: Asteroid Hole v2_MeshPart2
+    100028: Asteroid Hole v2_MeshPart3
+    100030: Asteroid Hole v2_MeshPart4
+    100032: Asteroid Hole v2_MeshPart5
+    400000: //RootNode
+    400002: Cube.001_MeshPart0
+    400004: Cube.001_MeshPart1
+    400006: Cube.001_MeshPart2
+    400008: Cube.001_MeshPart3
+    400010: Cube.001_MeshPart4
+    400012: Cube.001_MeshPart5
+    400014: Asteroid Hole v2
+    400016: Asteroid Hole v2_Collider
+    400018: Asteroid Hole v2_Collider_MeshPart0
+    400020: Asteroid Hole v2_Collider_MeshPart1
+    400022: Asteroid Hole v2_MeshPart0
+    400024: Asteroid Hole v2_MeshPart1
+    400026: Asteroid Hole v2_MeshPart2
+    400028: Asteroid Hole v2_MeshPart3
+    400030: Asteroid Hole v2_MeshPart4
+    400032: Asteroid Hole v2_MeshPart5
+    2300000: Cube.001_MeshPart0
+    2300002: Cube.001_MeshPart1
+    2300004: Cube.001_MeshPart2
+    2300006: Cube.001_MeshPart3
+    2300008: Cube.001_MeshPart4
+    2300010: Cube.001_MeshPart5
+    2300012: Asteroid Hole v2_Collider_MeshPart0
+    2300014: Asteroid Hole v2_Collider_MeshPart1
+    2300016: Asteroid Hole v2_MeshPart0
+    2300018: Asteroid Hole v2_MeshPart1
+    2300020: Asteroid Hole v2_MeshPart2
+    2300022: Asteroid Hole v2_MeshPart3
+    2300024: Asteroid Hole v2_MeshPart4
+    2300026: Asteroid Hole v2_MeshPart5
+    3300000: Cube.001_MeshPart0
+    3300002: Cube.001_MeshPart1
+    3300004: Cube.001_MeshPart2
+    3300006: Cube.001_MeshPart3
+    3300008: Cube.001_MeshPart4
+    3300010: Cube.001_MeshPart5
+    3300012: Asteroid Hole v2_Collider_MeshPart0
+    3300014: Asteroid Hole v2_Collider_MeshPart1
+    3300016: Asteroid Hole v2_MeshPart0
+    3300018: Asteroid Hole v2_MeshPart1
+    3300020: Asteroid Hole v2_MeshPart2
+    3300022: Asteroid Hole v2_MeshPart3
+    3300024: Asteroid Hole v2_MeshPart4
+    3300026: Asteroid Hole v2_MeshPart5
+    4300000: Cube.001_MeshPart0
+    4300002: Cube.001_MeshPart1
+    4300004: Cube.001_MeshPart2
+    4300006: Cube.001_MeshPart3
+    4300008: Cube.001_MeshPart4
+    4300010: Cube.001_MeshPart5
+    4300012: Asteroid Hole v2_Collider_MeshPart0
+    4300014: Asteroid Hole v2_Collider_MeshPart1
+    4300016: Asteroid Hole v2_MeshPart0
+    4300018: Asteroid Hole v2_MeshPart1
+    4300020: Asteroid Hole v2_MeshPart2
+    4300022: Asteroid Hole v2_MeshPart3
+    4300024: Asteroid Hole v2_MeshPart4
+    4300026: Asteroid Hole v2_MeshPart5
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
