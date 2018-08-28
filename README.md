@@ -15,11 +15,11 @@ A local multiplayer 3D space-shooter developed in Unity for my grade 11 computer
 * This game was developed in [Unity 5.5.0f3](https://unity3d.com/unity/whats-new/unity-5.5.0). It is recommended that you use this version of Unity to open the project file.
 * To open, simply run the Unity launcher, select "open" and navigate to the project's root folder on your machine. Note, on the first time loading may take some time as Unity must generate some library files.
 
-# Game Objectives
+## Game Objectives
 The goal of the game is to dog-fight it out with your friends in order to be number one on the local server leaderboard.
 
-# Controls
-## Gameplay
+## Controls
+### Gameplay
 * **Mouse** - Adjust look direction.
 * **Left Click** - Fire primary weapon.
 * **S** - Fire secondary weapon (some ship-classes allow for their special to be detonated by pressing **S** again).
@@ -28,12 +28,12 @@ The goal of the game is to dog-fight it out with your friends in order to be num
 * **Scroll** - Adjust movement speed.
 * **F** - Toggle spotlight.
 
-## Camera
+### Camera
 * **Z** - Toggle free-look mode.
 * **(Free-look active) Right Click + Drag** - Adjust camera angle.
 * **(Free-look active) Scroll** - Adjust camera distance.
 
-## General
+### General
 * **P** - Toggle pause menu.
 * **X** - Exit match to the main menu.
 * **C** - Focus to chat window.
